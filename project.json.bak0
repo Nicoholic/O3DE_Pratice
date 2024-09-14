@@ -1,0 +1,45 @@
+{
+    "project_name": "Bound_By_Blood",
+    "version": "1.0.0",
+    "project_id": "{12440345-607B-4B77-B366-EB78190FCE6F}",
+    "origin": "The primary repo for Bound_By_Blood goes here: i.e. http://www.mydomain.com",
+    "license": "What license Bound_By_Blood uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "Bound_By_Blood",
+    "summary": "A short description of Bound_By_Blood.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "Bound_By_Blood"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "Bound_By_Blood",
+    "gem_names": [
+        "Bound_By_Blood",
+        "Atom",
+        "AudioSystem",
+        "AWSCore",
+        "CameraFramework",
+        "DebugDraw",
+        "DiffuseProbeGrid",
+        "EditorPythonBindings",
+        "EMotionFX",
+        "GameState",
+        "ImGui",
+        "LandscapeCanvas",
+        "LyShine",
+        "PhysX",
+        "PrimitiveAssets",
+        "PrefabBuilder",
+        "SaveData",
+        "ScriptCanvasPhysics",
+        "ScriptEvents",
+        "StartingPointInput",
+        "TextureAtlas",
+        "WhiteBox"
+    ]
+}

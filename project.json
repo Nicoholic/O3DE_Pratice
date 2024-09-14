@@ -1,0 +1,54 @@
+{
+    "project_name": "Bound_By_Blood",
+    "version": "1.0.0",
+    "project_id": "{12440345-607B-4B77-B366-EB78190FCE6F}",
+    "origin": "The primary repo for Bound_By_Blood goes here: i.e. http://www.mydomain.com",
+    "license": "What license Bound_By_Blood uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "Bound_By_Blood",
+    "summary": "A short description of Bound_By_Blood.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "Bound_By_Blood"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de-sdk",
+    "external_subdirectories": [
+        "FirstPersonController-main",
+        "Gem"
+    ],
+    "restricted": "Bound_By_Blood",
+    "gem_names": [
+        "AWSCore",
+        "Atom",
+        "AtomContent",
+        "AudioSystem",
+        "Bound_By_Blood",
+        "CameraFramework",
+        "CrashReporting",
+        "DebugDraw",
+        "DiffuseProbeGrid",
+        "EMotionFX",
+        "EditorPythonBindings",
+        "FirstPersonController==1.0.0",
+        "GameState",
+        "ImGui",
+        "LandscapeCanvas",
+        "LyShine",
+        "PhysX",
+        "PrefabBuilder",
+        "PrimitiveAssets",
+        "SaveData",
+        "ScriptCanvasPhysics",
+        "ScriptEvents",
+        "StartingPointInput",
+        "Terrain",
+        "TestAssetBuilder",
+        "TextureAtlas",
+        "Vegetation",
+        "WarehouseAssets==1.0.0",
+        "WhiteBox"
+    ],
+    "engine_version": "2.2.2"
+}

@@ -1,0 +1,18 @@
+{
+    "Amazon": {
+        "AssetProcessor": {
+            "Settings": {
+                "ScanFolder Bound_By_Blood/Assets": {
+                    "watch": "@GEMROOT:Bound_By_Blood@/Assets",
+                    "recursive": 1,
+                    "order": 101
+                },
+                "ScanFolder Bound_By_Blood/Registry": {
+                    "watch": "@GEMROOT:Bound_By_Blood@/Registry",
+                    "recursive": 1,
+                    "order": 102
+                }
+            }
+        }
+    }
+}

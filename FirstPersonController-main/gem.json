@@ -1,0 +1,36 @@
+{
+    "gem_name": "FirstPersonController",
+    "version": "1.0.0",
+    "display_name": "FirstPersonController",
+    "license": "MPL 2.0",
+    "license_url": "https://github.com/Porcupine-Factory/FirstPersonController/blob/main/LICENSE.txt",
+    "origin": "Porcupine Factory",
+    "origin_uri": "https://github.com/Porcupine-Factory/FirstPersonController.git",
+    "last_updated": "2023-11-22",
+    "sha256": "",
+    "type": "Code",
+    "summary": "The First Person Controller Gem provides customizable controls for your character in the first-person perspective.",
+    "canonical_tags": [
+        "Gem"
+    ],
+    "user_tags": [
+        "Input",
+        "Gameplay",
+        "Scripting",
+        "Physics",
+        "FirstPersonController"
+    ],
+    "icon_path": "preview.png",
+    "requirements": "This requires the PhysX and Starting Point Input gems.",
+    "documentation_url": "https://github.com/Porcupine-Factory/FirstPersonController/wiki",
+    "dependencies": [
+        "PhysX",
+        "StartingPointInput"
+    ],
+    "repo_uri": "https://github.com/Porcupine-Factory/FirstPersonController.git",
+    "restricted": "FirstPersonController",
+    "platforms": [
+        "Linux",
+        "Windows"
+    ]
+}
